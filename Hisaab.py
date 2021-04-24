@@ -4,7 +4,6 @@ from tkcalendar import DateEntry
 import datetime
 from tkinter import ttk
 from matplotlib import pyplot as plt
-import numpy as np
 from datetime import date, timedelta
 import calendar
 from matplotlib.figure import Figure
